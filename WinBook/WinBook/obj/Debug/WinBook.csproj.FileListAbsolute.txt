@@ -10,3 +10,4 @@ C:\Projects\GIT\WinBook\WinBook\WinBook\obj\Debug\WinBook.pdb
 C:\Projects\GIT\WinBook\WinBook\WinBook\bin\Debug\WinBook.exe
 C:\Projects\GIT\WinBook\WinBook\WinBook\bin\Debug\WinBook.pdb
 C:\Projects\GIT\WinBook\WinBook\WinBook\obj\Debug\WinBook.csprojResolveAssemblyReference.cache
+C:\Users\Amer Jod\Documents\newbook\WinBook\WinBook\bin\Debug\WinBook.exe.config
