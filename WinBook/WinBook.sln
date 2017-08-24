@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBook", "WinBook\WinBook.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBookForm", "WinBookForm\WinBookForm.csproj", "{924663D6-113B-4B18-B1B9-96876243383E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBookServices", "WinBookServices\WinBookServices.csproj", "{A64AD311-8990-436E-BA84-467164514411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBookDataAccess", "WinBookDataAccess\WinBookDataAccess.csproj", "{84FB9485-7211-42C8-AC22-BA96716F773F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{924663D6-113B-4B18-B1B9-96876243383E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{924663D6-113B-4B18-B1B9-96876243383E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{924663D6-113B-4B18-B1B9-96876243383E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64AD311-8990-436E-BA84-467164514411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64AD311-8990-436E-BA84-467164514411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64AD311-8990-436E-BA84-467164514411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64AD311-8990-436E-BA84-467164514411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FB9485-7211-42C8-AC22-BA96716F773F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FB9485-7211-42C8-AC22-BA96716F773F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FB9485-7211-42C8-AC22-BA96716F773F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FB9485-7211-42C8-AC22-BA96716F773F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
